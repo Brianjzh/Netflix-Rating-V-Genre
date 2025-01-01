@@ -33,8 +33,3 @@ This project analyzes Netflix ratings by genre using data visualization and stat
   - Jupyter Notebook or JupyterLab for running the analysis.
 
 ---
-
-## Instructions for Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/netflix-ratings-analysis.git
